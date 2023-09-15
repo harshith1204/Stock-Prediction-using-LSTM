@@ -1,4 +1,4 @@
-Stock Price Prediction Using LSTM, [Project Date]
+Stock Price Prediction Using LSTM
 
 ->Developed a Long Short-Term Memory (LSTM) neural network model in Keras to predict stock prices.
 ->Preprocessed historical stock price data, including feature scaling and time-series data transformations.
